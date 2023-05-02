@@ -1,3 +1,3 @@
-![Иллюстрация к проекту](https://api.monosnap.com/file/download?id=p7hmmoLipJJhSYUqe94UzGmVNN714O)
+![image](https://i.ibb.co/fCWLCz5/hw-image-1.png)
 
-<!-- ![Иллюстрация к проекту](https://monosnap.com/file/p7hmmoLipJJhSYUqe94UzGmVNN714O) -->
+![Иллюстрация к проекту](https://i.ibb.co/MfDgpMt/hw-image-2.png)
